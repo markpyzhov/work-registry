@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this reference design, please cite this release."
+type: software
+title: "Work Registry"
+abstract: "A portable, source-traced design and set of agent task contracts for shared work state."
+authors:
+  - family-names: "Pyzhov"
+    given-names: "Mark"
+version: 1.0.0
+date-released: 2026-08-11
+license: MIT
+keywords:
+  - AI agents
+  - work state
+  - provenance
+  - knowledge management
