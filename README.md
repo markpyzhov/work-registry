@@ -230,5 +230,5 @@ its `<project>/` source folder as direct entry points in the project rules.
 
 ## Release and citation
 
-Version `1.0.0` is identified by the annotated Git tag `v1.0.0`. Cite this package
+Version `1.0.1` is identified by the annotated Git tag `v1.0.1`. Cite this package
 using [`CITATION.cff`](CITATION.cff). It is released under the [MIT License](LICENSE).
