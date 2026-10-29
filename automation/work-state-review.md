@@ -86,7 +86,10 @@ runner publishes the updated `main` after the full task succeeds.
    task references, and evidence. Never mutate a source system. A suggested but
    missing task-system item goes to triage. Text marked `local-only` in a synchronized
    task file is not source-system evidence and must not be cited.
-6. Reconcile into the matching item. A clear new outcome gets the next `WS-*` ID;
+6. Reconcile into the matching item. If a source gives a different status for work
+   addressed by a Comment, compare the date of the event described in the source with
+   the Comment date. Use the source status when the event is later; retain the
+   Comment's status when it is earlier. A clear new outcome gets the next `WS-*` ID;
    ambiguity goes to triage. Keep one outcome per item. `S#` and `T###` values are
    append-only, and every factual claim cites an `S#` or `CMT-*`.
 7. After full coverage, set
